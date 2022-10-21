@@ -1,0 +1,334 @@
+.sabitleme{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+    width: 100%;
+    left:0;
+    right: 0;
+    z-index: 99999;
+    }
+
+
+    
+
+
+
+.Float{
+    left: 80px;
+    position: relative;
+   
+
+}
+
+.Boyut{
+    width: 15px;
+    height: 15px;
+}
+
+.mr-15{
+    margin-right: 255px;
+}
+
+.box {
+    position: relative;
+    max-width: 300px;
+    max-height: 150px;
+    
+}
+ 
+.fa-search {
+    position: absolute;
+    top: 9px;
+    left: 12px;
+    font-size: 20px;
+    color:cornflowerblue;
+}
+ 
+.search {
+    display: flex;
+    position: relative;
+    right: 380px;
+    vertical-align:hidden;
+    width: 250px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 6px solid whitesmoke;
+    border-radius: 4px;
+    text-align: center;
+
+    font-size:18px;
+    padding: 12px 20px 12px 40px;
+  
+}
+ 
+.t-search{
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    left: -290px;
+}
+
+.instagram{
+    position: absolute;
+    left: 500px;
+    top: 12px;
+}
+
+.style-instagram{
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: -6px;
+    margin-left: -80px;
+
+}
+
+
+.b-big{
+    
+    border-radius: 115px;
+    width:70px;
+    height:70px;
+    line-height:200px;
+    color:black;
+}
+
+
+.f-smal{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.p-smal{
+    width: 65px;
+    height: 65px;
+    border-radius: 35px;
+}
+    
+.t-big{
+    position: relative;
+    top: -68px;
+}
+
+.f-big{
+    position: relative;
+    top: -220px;
+    left: 1px;
+    text-align: center;
+}
+
+
+
+
+
+.p-smal-s{
+    width: 35px;
+    height: 35px;
+    border-radius: 25px;
+}
+
+
+
+.text-c{
+    position: relative;
+    left: 50px;
+    top: 25px;
+}
+
+.d-big{
+    position: relative;
+    left: 750px;
+    bottom: 150px;
+}
+
+.mt-top{
+    position: relative;
+    bottom: 450px;
+}
+
+.p-smal-smal{
+    width: 45px;
+    height: 45px;
+    border-radius: 35px;
+}
+
+.t-bayyar{
+    font-weight: bold;
+    margin-left: 12px;
+}
+
+.points{
+    position: relative;
+    left: 480px;
+}
+
+.picture-big{
+    position: relative;
+    top: -19px;
+    right: -0px;
+    left: -20px;
+}
+
+.messsage-small{
+    position: relative;
+    top: -15px;
+    margin-right: 13px;
+}
+
+.comment-small{
+    position: relative;
+    top: -15px;
+    margin-right: 13px;
+}
+
+.send-small{
+    position: relative;
+    top: -15px;
+    margin-right: 13px;
+}
+
+.p-smal-smal-small{
+    width: 25px;
+    height: 25px;
+    border-radius: 35px;
+    position: relative;
+    top: -15px;
+    right: 5px;
+}
+
+.bayyar-talha{
+    font-weight: bold;
+    color: black;
+    position: relative;
+    top: -12px;
+}
+
+.comment-talha{
+    position: relative;
+    top: -20px;
+}
+
+.comment-dog{
+    color: rgb(86, 86, 91);
+}
+
+.comment-15{
+    position: relative;
+    top: -32px;
+    color: rgb(86, 86, 91);
+}
+
+.commet-mustafa{
+    position: relative;
+    top: -45px;
+    color: black;
+}
+
+.commet-beko{
+    position: relative;
+    top: -55px;
+    color: black;
+}
+.share{
+    position: relative;
+    left: 640px;
+    top: -35px;
+    font-weight:bold;
+    color: rgb(84, 84, 250);
+}
+
+.b-talha{
+    position: relative;
+    left: 75px;
+    top: -260px;
+    font-size: 12px;
+}
+
+.onerilen-b{
+    position: relative;
+    bottom: -70px;
+    left: -90px;
+}
+
+.t-gor{
+    position: relative;
+    left: 215px;
+    font-weight: bold;
+}
+
+.t-kisiler{
+    position: relative;
+    right: 80px;
+    bottom: -80px;
+    padding-top: 5px;
+}
+
+.t-takip-et{
+   margin-bottom: 9px;
+ 
+    
+}
+
+.b-t-bayyar{
+    position: relative;
+    top: 150px;
+}
+
+.t-bay{
+    position: relative;
+    right: -100px;
+    top: -50px;
+}
+
+.t-b{
+    position: relative;
+    bottom: 12px;
+    left: 5px;
+    font-weight: 600;
+}
+
+.takip-et-row{
+    position: relative;
+    left: 242px;
+    bottom: 210px;
+    margin-top: -15px;
+   
+   
+
+}
+
+
+.toplu-kisi{
+    position: relative;
+    margin-top: 24px;
+    left: 24px;
+}
+
+.bayyar-t-b{
+    position: relative;
+    bottom: 12px;
+    margin-right: 5px;
+    font-weight: 600;
+}
+
+.color{
+    position: relative;
+    margin-bottom: 19px;
+    color: blue;
+    font-weight: 600;
+}
+
+.save{
+    position: relative;
+    left: 570px;
+    bottom: 15px;
+}
+
+.border-radius{
+    border-radius: 35px;
+    width:18px;
+    height:18px;
+    
+    
+}
